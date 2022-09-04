@@ -1,2 +1,2 @@
 # rubyrenme
-My webside. Simple version. First version
+My webside. Simple version.
