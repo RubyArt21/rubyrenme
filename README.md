@@ -1,2 +1,2 @@
 # rubyrenme
-My webside. Simple version.
+My website. Simple version. https://rubyrenme.ru/
